@@ -1,0 +1,19 @@
+tar_dir: /Volumes/saxdata2/data
+out_dir: /home/mattgadd/experiments/oord/test
+data_dir: /home/mattgadd/data/oord
+
+seed: 42
+batch_size: 16
+device: cuda:0
+downsample: 5
+pos_gps: 25.0
+neg_gps: 50.0
+gps_match_tolerance: 25.0
+channels: 1
+
+min_bin: 60
+max_bin: 3768
+cartesian: True
+cart_res: 1.2717
+cart_pw: 256
+fft: False

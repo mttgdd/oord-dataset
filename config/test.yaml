@@ -1,0 +1,22 @@
+data:
+  - dir: bellmouth
+    ref_exp: 
+      date_str: 2021-11-25-12-31-19
+    loc_exps: 
+      - date_str: 2021-11-25-12-01-20
+  - dir: hydro
+    ref_exp: 
+      date_str: 2021-11-27-14-37-20
+    loc_exps: 
+      - date_str: 2021-11-27-15-24-02
+      - date_str: 2021-11-27-16-03-26
+  - dir: maree
+    ref_exp: 
+      date_str: 2021-11-28-15-54-55
+    loc_exps: 
+      - date_str: 2021-11-28-16-43-37
+  - dir: twolochs
+    ref_exp: 
+      date_str: 2021-11-29-12-19-16
+    loc_exps: 
+      - date_str: 2021-11-29-11-40-37

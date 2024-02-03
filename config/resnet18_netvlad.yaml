@@ -1,0 +1,24 @@
+network: resnet18_netvlad
+
+tar_dir: /Volumes/saxdata2/data
+data_dir: /home/mattgadd/data/oord
+out_dir: /home/mattgadd/experiments/oord/train/lenet
+
+seed: 42
+batch_size: 64
+max_epochs: 1000
+lr: 1e-4
+device: cuda:0
+downsample: 5
+
+pos_gps: 25.0
+neg_gps: 30.0
+gps_match_tolerance: 25.0
+
+min_bin: 60
+max_bin: 3768
+cartesian: False
+num_azis: 128
+num_bins: 128
+channels: 3
+fft: False
