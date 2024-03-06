@@ -2,7 +2,7 @@
 
 Software development kit and experiments for [The Oxford Offroad Radar (OORD) Dataset](https://oxford-robotics-institute.github.io/oord-dataset/).
 
-Please cite
+Please cite the following <a href="https://arxiv.org/pdf/2403.02845.pdf">paper</a>
 
 **OORD: The Oxford Offroad Radar Dataset** <br>
 M. Gadd, D. De Martini, O. Bartlett, P. Murcutt, M. Towlson, M. Widojo, V. Muşat, L. Robinson, E. Panagiotaki, G. Pramatarov, M. A. Kühn, L. Marchegiani, P. Newman, L. Kunze<br>
