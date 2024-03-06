@@ -11,4 +11,3 @@ torchvision
 huggingface_hub
 opencv-python-headless
 scikit-image
-git+https://github.com/mttgdd/bc_radar_vgg19.git
