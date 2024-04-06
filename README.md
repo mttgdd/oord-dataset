@@ -16,3 +16,7 @@ journal={arXiv preprint arXiv:2403.02845},
 year={2024}
 }
 ```
+
+# Notes
+
+1. As per the [Oxford Radar RobotCar Dataset](https://arxiv.org/pdf/1909.01300.pdf), there are a very small number of data packets carrying azimuth returns that are infrequently dropped. However, our `dataset.py` script resizes both polar and cartesian arrays to a fixed size.
